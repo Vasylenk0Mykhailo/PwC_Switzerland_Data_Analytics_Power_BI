@@ -6,5 +6,5 @@ This project is part of the PwC Switzerland Power BI in Data Analytics Virtual C
 Through meticulous data analysis and visualization, this project aims to support informed decision-making and highlight areas for improvement and innovation.
 
 # Installation and Usage Instructions
-  # Installation
+**Installation**
 Power BI Desktop is required to view and interact with the dashboards. If not already installed, it can be downloaded from the official Microsoft Power BI website. Installation instructions are provided on the site.
