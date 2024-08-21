@@ -35,5 +35,18 @@ The **.pbix files** associated with each dashboard are hosted within this reposi
 - `Customer_Retention.pbix`: Power BI file focused on analyzing customer retention metrics.
 - `Diversity_Inclusion.pbix`: Power BI file focused on analyzing diversity and inclusion within the organization.
 
-## Conclusion
-This project showcases the use of Power BI to deliver impactful insights through data visualization, helping organizations like PwC Switzerland make informed business decisions. Explore the dashboards to uncover key trends and areas for strategic improvement.
+## Dashboards
+### Call Centre Trends
+The first dashboard offers an in-depth analysis of call centre metrics, highlighting customer satisfaction, call volumes, and agent performance. It helps pinpoint areas that need improvement in call centre operations.
+
+Dashboards are available for download [here](https://github.com/Vasylenk0Mykhailo/PwC_Switzerland_Data_Analytics_Power_BI/tree/main/Task_1%20Call%20Centre%20Trends).
+
+![image](https://github.com/user-attachments/assets/ae3d2642-72f7-40fc-b9f5-2abc6f878f6b)
+
+
+### Customer Retention
+This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
+
+Dashboards are available for download [here](https://github.com/Vasylenk0Mykhailo/PwC_Switzerland_Data_Analytics_Power_BI/tree/main/Task_2%20Customer%20Retention).
+
+
